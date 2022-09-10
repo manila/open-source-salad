@@ -6,7 +6,7 @@
 
 ### Seasonings
 
-[sweetgreen inspired umami seasoning]()
+[sweetgreen inspired umami seasoning](seasonings/sweetgreen-inspired-umami.md)
 
 ### Bases
 
