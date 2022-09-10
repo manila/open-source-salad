@@ -1,4 +1,4 @@
-# Open Source Salads
+# Open Source Salad
 
 ### Dressings
 
