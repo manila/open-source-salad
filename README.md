@@ -1,6 +1,6 @@
-# Open Source Salad
+# Open Source Salad 
 
-Nothing better than colab salad :D
+Nothing better than colab salad 🥗
 
 ### Dressings
 
