@@ -3,13 +3,13 @@
 This recipie intends to match as closly as possible the umami seasoning that is
 used in many sweetgreen toppings and dressings.
 
-2 Teaspoon granulated onion
-1 Teaspoon granulated garlic
-1/2 teaspoon paprika
-1/2 teaspoon cumin
-1/4 teaspoon cayenne powder
-1/4 teaspoon nutritional yeast
-1/4 teaspoon salt
+- 2 Teaspoon granulated onion
+- 1 Teaspoon granulated garlic
+- 1/2 teaspoon paprika
+- 1/2 teaspoon cumin
+- 1/4 teaspoon cayenne powder
+- 1/4 teaspoon nutritional yeast
+- 1/4 teaspoon salt
 
 other attempts
 
