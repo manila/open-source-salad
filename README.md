@@ -9,6 +9,7 @@ Nothing better than colab salad!
 ### Seasonings
 
 - [sweetgreen inspired umami seasoning](seasonings/sweetgreen-inspired-umami.md)
+- [sweetgreen inspired blackening spice](seasonings/sweetgreen-inspired-blackening.md)
 
 ### Bases
 
