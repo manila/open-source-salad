@@ -19,3 +19,5 @@ Nothing better than colab salad!
 ### Toppings
 
 - [sweetgreen inspired roasted chicken](toppings/sweetgreen-roasted-chicken.md)
+
+### Credits
