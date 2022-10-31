@@ -15,6 +15,7 @@ Nothing better than colab salad!
 
 - [sweetgreen inspired wild rice]()
 - [sweetgreen inspired quinoa]()
+- [kale]()
 
 ### Toppings
 
